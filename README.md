@@ -1,2 +1,3 @@
 # Java-Language
-This is my First Repository.
+This is my First Git Repository.
+Author: Sumit Raut
